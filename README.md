@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DotGothic16&size=35&duration=3500&pause=1000&color=4B0082&center=true&vCenter=true&width=1000&lines=Ol%C3%A1.+Meu+nome+%C3%A9+Vitor+Brand%C3%A3o.;Tenho+25+anos.;Moro+no+Rio+de+Janeiro.;Estudo+Desenvolvimento+em+Front-end.;Seja+Bem-vindo(a)+%3A)" alt="Typing SVG" /></a>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=oadoficial&show_icons=true&count_private=true&hide_border=true&title_color=4B0082&icon_color=4B0082&text_color=4B0082&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vitorhfbrandao&show_icons=true&count_private=true&hide_border=true&title_color=4B0082&icon_color=4B0082&text_color=4B0082&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhfbrandao&layout=compact&hide_border=true&title_color=4B0082&text_color=4B0082&bg_color=0d1117" />
 </div>
 
