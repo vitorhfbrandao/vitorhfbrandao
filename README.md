@@ -4,10 +4,10 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=oadoficial&show_icons=true&count_private=true&hide_border=true&title_color=4B0082&icon_color=4B0082&text_color=4B0082&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oadoficial&layout=compact&hide_border=true&title_color=4B0082&text_color=4B0082&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhfbrandao&layout=compact&hide_border=true&title_color=4B0082&text_color=4B0082&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=oadoficial&bg_color=0d1117&color=4b0082&line=4b0082&point=4b0082&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vitorhfbrandao&bg_color=0d1117&color=4b0082&line=4b0082&point=4b0082&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center"> 
 <a href="https://www.facebook.com/brandaovtrhg" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%234267B2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
@@ -25,12 +25,12 @@
 </div>
 
 <div align="center">
-<p align="center"><img align="center" src="https://github.com/oadoficial/oadoficial/blob/output/github-contribution-grid-snake.svg" /></p>
+<p align="center"><img align="center" src="https://github.com/vitorhfbrandao/vitorhfbrandao/blob/output/github-contribution-grid-snake.svg" /></p>
 </div>
 
 <div align="center">
 <br><p align="centre"><b>Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{oadoficial}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{vitorhfbrandao}/count.svg" /></p> 
 <br>
 </div>
 
