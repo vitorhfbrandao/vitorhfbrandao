@@ -12,7 +12,7 @@
   <a href="https://www.instagram.com/brandao_vtrhg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/id/oadoficial" target="_blank"><img src="https://img.shields.io/badge/-Steam-%23000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
   <a href = "mailto:vitorhfbrandao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23c71610?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/oadoficial" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vitorhfbrandao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
  
  <div align="center"><br>
