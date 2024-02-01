@@ -42,4 +42,4 @@
 <a href="#"><img width="300px" height="195px" padding="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhfbrandao&layout=compact&hide_border=true&title_color=c4834a&text_color=c4834a&bg_color=0d1117"/>              
 </div></a>
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vitorhfbrandao&bg_color=0d1117&color=c4834a&line=c4834a&point=FFFFFF&area_color=c4834a&area=true&hide_border=true)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vitorhfbrandao&bg_color=0d1117&color=c4834a&line=c4834a&point=FFFFFF&area_color=c4834a&area=true&hide_border=true)](#)
