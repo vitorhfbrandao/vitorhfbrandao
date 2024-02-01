@@ -29,12 +29,12 @@
 
 ## Contato
 <div> 
-<a href="https://www.facebook.com/vitorhfbrandao" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%234267B2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/brandao_vtrhg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://steamcommunity.com/id/oadoficial" target="_blank"><img src="https://img.shields.io/badge/-Steam-%23000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
-  <a href = "mailto:vitorhfbrandao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23c71610?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vitorhfbrandao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "https://api.whatsapp.com/send?phone=5521972215701&text=Ol%C3%A1,%20Vitor!%20Vi%20o%20seu%20GitHub%20e%20me%20interessei%20pelo%20seu%20trabalho!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+<a href="https://www.facebook.com/vitorhfbrandao" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Facebook-%234267B2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
+  <a href="https://www.instagram.com/brandao_vtrhg" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
+  <a href="https://steamcommunity.com/id/oadoficial" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Steam-%23000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
+  <a href = "mailto:vitorhfbrandao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23c71610?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
+  <a href="https://www.linkedin.com/in/vitorhfbrandao" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
+  <a href = "https://api.whatsapp.com/send?phone=5521972215701&text=Ol%C3%A1,%20Vitor!%20Vi%20o%20seu%20GitHub%20e%20me%20interessei%20pelo%20seu%20trabalho!" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
  </div></br>
 
 <div display=flex align=center>  
