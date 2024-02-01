@@ -1,6 +1,6 @@
-<h1 align="center">Olá! Prazer, Vitor aqui! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=vitorhfbrandao&style=plastic&abbreviated=true&color=c4834a" alt="Profile views"/></div>
-<img align="right" height="220em" src="https://github.com/vitorhfbrandao/trabalho-faculdade/assets/86865137/80fec2aa-bffe-455f-a717-7192017ce107"/> </br>
+<h1 align="center">Olá! Prazer, Vitor aqui! <a href="#"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></a></h1>
+<div align="center"> <a href="#"><img src="https://komarev.com/ghpvc/?username=vitorhfbrandao&style=plastic&abbreviated=true&color=c4834a" alt="Profile views"/></div></a>
+<a href="#"><img align="right" height="220em" src="https://github.com/vitorhfbrandao/trabalho-faculdade/assets/86865137/80fec2aa-bffe-455f-a717-7192017ce107"/></a> </br>
 <h4>Seja Bem-vindo(a) ao meu perfil! 🙃</h4>
 
 - 💻 Desenvolvedor Front-end.
@@ -9,22 +9,22 @@
 
 ## Linguagens e Frameworks
 <div style="display: inline-block">
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"/>
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg"/>
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/>
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
+<a href="#"><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/></a>
+<a href="#"><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/></a>
+<a href="#"><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>
+<a href="#"><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"/></a>
+<a href="#"><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg"/></a>
+<a href="#"><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/></a>
+<a href="#"><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/></a>
+<a href="#"><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></a>
+<a href="#"><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/></a>
 </div></br>
 
 ## Ferramentas
 <div style="display: inline-block">
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg"/>
+<a href="#"><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/></a>
+<a href="#"><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/></a>
+<a href="#"><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg"/></a>
 </div></br>
 
 ## Contato
@@ -38,8 +38,8 @@
  </div></br>
 
 <div display=flex align=center>  
-  <img width="400px" height="195px" src="https://github-readme-stats.vercel.app/api?username=vitorhfbrandao&show_icons=true&count_private=true&hide_border=true&title_color=c4834a&icon_color=c4834a&text_color=c9d1d9&bg_color=0d1117" alt="João Victor github stats"/>
-  <img width="300px" height="195px" padding="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhfbrandao&layout=compact&hide_border=true&title_color=c4834a&text_color=c4834a&bg_color=0d1117"/>              
-</div>
+<a href="#"><img width="400px" height="195px" src="https://github-readme-stats.vercel.app/api?username=vitorhfbrandao&show_icons=true&count_private=true&hide_border=true&title_color=c4834a&icon_color=c4834a&text_color=c9d1d9&bg_color=0d1117" alt="Vitor Brandão GitHub Stats"/></a>
+<a href="#"><img width="300px" height="195px" padding="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhfbrandao&layout=compact&hide_border=true&title_color=c4834a&text_color=c4834a&bg_color=0d1117"/>              
+</div></a>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vitorhfbrandao&bg_color=0d1117&color=c4834a&line=c4834a&point=FFFFFF&area_color=c4834a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
