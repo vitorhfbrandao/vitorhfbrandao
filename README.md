@@ -22,6 +22,7 @@
 
 ## Ferramentas
 <div style="display: inline-block">
+<a href="#"><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/></a>
 <a href="#"><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/></a>
 <a href="#"><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/></a>
 <a href="#"><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg"/></a>
