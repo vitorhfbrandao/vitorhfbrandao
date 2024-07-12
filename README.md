@@ -1,5 +1,5 @@
 <h1 align="center">Olá! Prazer, Vitor aqui! <a href="#"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></a></h1>
-<div align="center"> <a href="#"><img src="https://komarev.com/ghpvc/?username=vitorhfbrandao&style=plastic&abbreviated=true&color=c4834a" alt="Profile views"/></div></a>
+<div align="center"> <a href="#"><img src="https://komarev.com/ghpvc/?username=vitorhfbrandao&style=plastic&abbreviated=true&color=ff0000" alt="Profile views"/></div></a>
 <h4>Seja Bem-vindo(a) ao meu perfil! 🙃</h4>
 
 - 💻 Desenvolvedor Front-end.
@@ -42,7 +42,7 @@
  </div></br>
 
 <div display=flex align=center>  
-<a href="#"><img width="400px" height="195px" src="https://github-readme-stats.vercel.app/api?username=vitorhfbrandao&show_icons=true&count_private=true&hide_border=true&title_color=c4834a&icon_color=c4834a&text_color=c9d1d9&bg_color=0d1117" alt="Vitor Brandão GitHub Stats"/></a>
+<a href="#"><img width="400px" height="195px" src="https://github-readme-stats.vercel.app/api?username=vitorhfbrandao&show_icons=true&count_private=true&hide_border=true&title_color=&icon_color=c4834a&text_color=c9d1d9&bg_color=0d1117" alt="Vitor Brandão GitHub Stats"/></a>
 <a href="#"><img width="300px" height="195px" padding="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhfbrandao&layout=compact&hide_border=true&title_color=c4834a&text_color=c4834a&bg_color=0d1117"/>              
 </div></a>
 
