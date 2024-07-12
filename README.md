@@ -6,29 +6,33 @@
 - 🔭 Aprendendo a todo momento.
 - 🎓 Cursando Desenvolvimento Web (Front-End) na Universidade Anhanguera.
 
-## Linguagens e Frameworks
-<div style="display: inline-block">
-<a href="#"><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/></a>
-<a href="#"><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/></a>
-<a href="#"><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>
-<a href="#"><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"/></a>
-<a href="#"><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg"/></a>
-<a href="#"><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/></a>
-<a href="#"><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/></a>
-<a href="#"><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></a>
-<a href="#"><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/></a>
-</div></br>
+</br>
+<div align="center">
+<a href="https://www.imagensanimadas.com/cat-linhas-562.htm"><img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0124.gif" border="0" alt="linha-imagem-animada-0124" /></a>
+</div>
+</br>
 
-## Ferramentas
-<div style="display: inline-block">
-<a href="#"><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/></a>
-<a href="#"><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/></a>
-<a href="#"><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg"/></a>
-<a href="#"><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/></a>
-</div></br>
+<div align="center">
+  <span style="font-size: 16px;"><b>Skills</b></span> 
+</div>
+</br>
+  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,vuejs,wordpress,jquery,bootstrap,react,npm,vscode,git,github,figma,xd&perline=8" />
+</div>
+</br>
 
-## Contato
-<div> 
+<div align="center">
+<a href="https://www.imagensanimadas.com/cat-linhas-562.htm"><img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0124.gif" border="0" alt="linha-imagem-animada-0124" /></a>
+</div>
+</br>
+
+<div align="center">
+  <span style="font-size: 16px;"><b>Contato</b></span> 
+</div>
+</br>
+
+<div align="center"> 
 <a href="https://www.facebook.com/vitorhfbrandao" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Facebook-%234267B2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
   <a href="https://www.instagram.com/brandao_vtrhg" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
   <a href="https://steamcommunity.com/id/oadoficial" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Steam-%23000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
