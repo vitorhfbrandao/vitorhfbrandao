@@ -1,6 +1,5 @@
 <h1 align="center">Olá! Prazer, Vitor aqui! <a href="#"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></a></h1>
 <div align="center"> <a href="#"><img src="https://komarev.com/ghpvc/?username=vitorhfbrandao&style=plastic&abbreviated=true&color=c4834a" alt="Profile views"/></div></a>
-<a href="#"><img align="right" height="220em" src="https://github.com/vitorhfbrandao/trabalho-faculdade/assets/86865137/80fec2aa-bffe-455f-a717-7192017ce107"/></a> </br>
 <h4>Seja Bem-vindo(a) ao meu perfil! 🙃</h4>
 
 - 💻 Desenvolvedor Front-end.
